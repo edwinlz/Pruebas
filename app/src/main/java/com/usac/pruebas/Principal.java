@@ -22,10 +22,4 @@ public class Principal extends AppCompatActivity {
         * 10
         * */
     }
-
-    private void metodoPrueba(){
-        /*
-        * AQUI DEBERIA HACER ALGO
-        * */
-    }
 }
