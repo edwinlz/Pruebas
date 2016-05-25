@@ -31,4 +31,10 @@ public class Principal extends AppCompatActivity {
     public void pato2(){
         Log.v("pato","pato");
     }
+
+    public void prueba(){
+        /*
+        * METODO DE PRUEBA
+        * */
+    }
 }
