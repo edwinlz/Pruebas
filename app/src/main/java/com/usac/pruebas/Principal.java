@@ -2,6 +2,7 @@ package com.usac.pruebas;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class Principal extends AppCompatActivity {
 
@@ -21,5 +22,9 @@ public class Principal extends AppCompatActivity {
         * 9
         * 10
         * */
+    }
+
+    public void pato(){
+        Log.v("pato","pato");
     }
 }
